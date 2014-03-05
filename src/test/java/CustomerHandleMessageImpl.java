@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * Created by wangbin on 14-2-17.
  */
-public class CustomerHandleMessageImpl  {
+public class CustomerHandleMessageImpl extends DefHandleMessageImpl {
 
 
 

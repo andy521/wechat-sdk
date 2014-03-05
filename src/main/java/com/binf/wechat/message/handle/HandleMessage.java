@@ -19,7 +19,6 @@ import java.util.Map;
  */
 public abstract class HandleMessage{
 
-
     /**
      * 处理接收的输入流，返回一个Message对象
      * @param
